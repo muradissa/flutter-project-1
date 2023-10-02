@@ -1,7 +1,12 @@
 # simple_project_1
 
 A new Flutter project.
+
+# Screen
 ![Screenshot](result.png)
+
+# Architecture
+![Screenshot](arch.png)
 
 ## Getting Started
 
