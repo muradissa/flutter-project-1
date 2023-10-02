@@ -6,6 +6,7 @@ A new Flutter project.
 ![Screenshot](result.png)
 
 # Architecture
+
 ![Screenshot](arch.png)
 
 ## Getting Started
